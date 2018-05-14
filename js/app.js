@@ -1,3 +1,7 @@
 // JavaScript Document
 
-baguetteBox.run('.gallery');
+
+//Running the Gallery
+baguetteBox.run('.gallery', {
+    animation: 'fadeIn'
+});
