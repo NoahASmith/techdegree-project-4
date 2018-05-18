@@ -1,13 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
-* {
-    font-family: 'Poppins', sans-serif;
-}
-
 /*Heading*/
 h1{
     text-align: center;
+    font-family: 'Poppins', sans-serif;
 }
 
 
